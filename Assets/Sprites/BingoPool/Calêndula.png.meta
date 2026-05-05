@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 360880aad63a5cc49afeda9e7601876b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7728172036400713650
+    second: "Cal\xEAndula_0"
+  - first:
+      213: -4796350428372682762
+    second: "Cal\xEAndula_1"
+  - first:
+      213: -7995687262806636235
+    second: "Cal\xEAndula_2"
+  - first:
+      213: 6623258069290872350
+    second: "Cal\xEAndula_3"
+  - first:
+      213: -8379175068594990913
+    second: "Cal\xEAndula_4"
+  - first:
+      213: 8818770595982090428
+    second: "Cal\xEAndula_5"
+  - first:
+      213: 4147428048234047742
+    second: "Cal\xEAndula_6"
+  - first:
+      213: 3757063698312127199
+    second: "Cal\xEAndula_7"
+  - first:
+      213: 1643668596090619609
+    second: "Cal\xEAndula_8"
+  - first:
+      213: -8966985033505956544
+    second: "Cal\xEAndula_9"
+  - first:
+      213: 7816957713719594007
+    second: "Cal\xEAndula_10"
+  - first:
+      213: 3317212767596568645
+    second: "Cal\xEAndula_11"
+  - first:
+      213: -3027126502403761586
+    second: "Cal\xEAndula_12"
+  - first:
+      213: 5527046609127097141
+    second: "Cal\xEAndula_13"
+  - first:
+      213: 488103123738255351
+    second: "Cal\xEAndula_14"
+  - first:
+      213: 499077365727235920
+    second: "Cal\xEAndula_15"
+  - first:
+      213: -3731451567180123495
+    second: "Cal\xEAndula_16"
+  - first:
+      213: 946717920617864722
+    second: "Cal\xEAndula_17"
+  - first:
+      213: 8703010027401306488
+    second: "Cal\xEAndula_18"
+  - first:
+      213: -8649318857752489630
+    second: "Cal\xEAndula_19"
+  - first:
+      213: 8685975381924211521
+    second: "Cal\xEAndula_20"
+  - first:
+      213: 2869870974322831285
+    second: "Cal\xEAndula_21"
+  - first:
+      213: -5580165001506262995
+    second: "Cal\xEAndula_22"
+  - first:
+      213: -6270419270696205050
+    second: "Cal\xEAndula_23"
+  - first:
+      213: 6795803832265106114
+    second: "Cal\xEAndula_24"
+  - first:
+      213: -847428656617295855
+    second: "Cal\xEAndula_25"
+  - first:
+      213: -4195891373234402881
+    second: "Cal\xEAndula_26"
+  - first:
+      213: 7795078039312850655
+    second: "Cal\xEAndula_27"
+  - first:
+      213: -4797442263443101310
+    second: "Cal\xEAndula_28"
+  - first:
+      213: 8789787940390324718
+    second: "Cal\xEAndula_29"
+  - first:
+      213: -7198063775561401561
+    second: "Cal\xEAndula_30"
+  - first:
+      213: -8076593829163017069
+    second: "Cal\xEAndula_31"
+  - first:
+      213: -7775581011062861858
+    second: "Cal\xEAndula_32"
+  - first:
+      213: -4934814850974009561
+    second: "Cal\xEAndula_33"
+  - first:
+      213: 1045629723437630362
+    second: "Cal\xEAndula_34"
+  - first:
+      213: -7224620177405333194
+    second: "Cal\xEAndula_35"
+  - first:
+      213: 2302791303937406080
+    second: "Cal\xEAndula_36"
+  - first:
+      213: 4258053043125762149
+    second: "Cal\xEAndula_37"
+  - first:
+      213: 1341198801356787774
+    second: "Cal\xEAndula_38"
+  - first:
+      213: -2622419179741090771
+    second: "Cal\xEAndula_39"
+  - first:
+      213: 4646248171650104035
+    second: "Cal\xEAndula_40"
+  - first:
+      213: 768650760366385710
+    second: "Cal\xEAndula_41"
+  - first:
+      213: 5201771203545100578
+    second: "Cal\xEAndula_42"
+  - first:
+      213: -3892832538973129404
+    second: "Cal\xEAndula_43"
+  - first:
+      213: -3483285237112216938
+    second: "Cal\xEAndula_44"
+  - first:
+      213: 1838150574483178235
+    second: "Cal\xEAndula_45"
+  - first:
+      213: -6249238732186333269
+    second: "Cal\xEAndula_46"
+  - first:
+      213: 8005096001605656501
+    second: "Cal\xEAndula_47"
+  - first:
+      213: -537277583147334583
+    second: "Cal\xEAndula_48"
+  - first:
+      213: -4516062242692870127
+    second: "Cal\xEAndula_49"
+  - first:
+      213: 8814030891441389508
+    second: "Cal\xEAndula_50"
+  - first:
+      213: 8539192247976288829
+    second: "Cal\xEAndula_51"
+  - first:
+      213: 5399067689854049790
+    second: "Cal\xEAndula_52"
+  - first:
+      213: 4587786893137709630
+    second: "Cal\xEAndula_53"
+  - first:
+      213: -7892979095335175174
+    second: "Cal\xEAndula_54"
+  - first:
+      213: 3110189708455377827
+    second: "Cal\xEAndula_55"
+  - first:
+      213: 5995812109313323981
+    second: "Cal\xEAndula_56"
+  - first:
+      213: 2469168322894548842
+    second: "Cal\xEAndula_57"
+  - first:
+      213: 8502791735325953115
+    second: "Cal\xEAndula_58"
+  - first:
+      213: 7055069699883496662
+    second: "Cal\xEAndula_59"
+  - first:
+      213: 7860212174070351737
+    second: "Cal\xEAndula_60"
+  - first:
+      213: 7357011041837410872
+    second: "Cal\xEAndula_61"
+  - first:
+      213: -5783222858341551363
+    second: "Cal\xEAndula_62"
+  - first:
+      213: 2965464368624931715
+    second: "Cal\xEAndula_63"
+  - first:
+      213: -1403215885175941112
+    second: "Cal\xEAndula_64"
+  - first:
+      213: 114090104588984202
+    second: "Cal\xEAndula_65"
+  - first:
+      213: -7911593060172647168
+    second: "Cal\xEAndula_66"
+  - first:
+      213: -2569798415477102937
+    second: "Cal\xEAndula_67"
+  - first:
+      213: -7869857231225368845
+    second: "Cal\xEAndula_68"
+  - first:
+      213: -2636053128451598789
+    second: "Cal\xEAndula_69"
+  - first:
+      213: 2168380419820115945
+    second: "Cal\xEAndula_70"
+  - first:
+      213: 905281788555448887
+    second: "Cal\xEAndula_71"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Cal\xEAndula_0"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e407a3f7a7400c490800000000000000
+      internalID: -7728172036400713650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_1"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7bd8292b0ff6db0800000000000000
+      internalID: -4796350428372682762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_2"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5398b452ccc990190800000000000000
+      internalID: -7995687262806636235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_3"
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e62db5f1a8aeb50800000000000000
+      internalID: 6623258069290872350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_4"
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0169d7ba037bb80800000000000000
+      internalID: -8379175068594990913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_5"
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb02c291221926a70800000000000000
+      internalID: 8818770595982090428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_6"
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef86b7af5df9e8930800000000000000
+      internalID: 4147428048234047742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_7"
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2e8602785c32430800000000000000
+      internalID: 3757063698312127199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_8"
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6427e21eb7fc610800000000000000
+      internalID: 1643668596090619609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_9"
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d12a30f9ede8380800000000000000
+      internalID: -8966985033505956544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_10"
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c8186ef996b7c60800000000000000
+      internalID: 7816957713719594007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_11"
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540ebf0df6b190e20800000000000000
+      internalID: 3317212767596568645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_12"
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a9d060c7c7df5d0800000000000000
+      internalID: -3027126502403761586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_13"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5334c028b9304bc40800000000000000
+      internalID: 5527046609127097141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_14"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2346
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff5d28743716c600800000000000000
+      internalID: 488103123738255351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_15"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f0c9b48341de600800000000000000
+      internalID: 499077365727235920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_16"
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2346
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99277a9d198373cc0800000000000000
+      internalID: -3731451567180123495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_17"
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e9ce0deea632d00800000000000000
+      internalID: 946717920617864722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_18"
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2346
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871eae7628d47c870800000000000000
+      internalID: 8703010027401306488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_19"
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261539e235277f780800000000000000
+      internalID: -8649318857752489630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_20"
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2346
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b616fe698ca8870800000000000000
+      internalID: 8685975381924211521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_21"
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf67b72274d3d720800000000000000
+      internalID: 2869870974322831285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_22"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20f6210f754f82b0800000000000000
+      internalID: -5580165001506262995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_23"
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605836935eefaf8a0800000000000000
+      internalID: -6270419270696205050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_24"
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c26669649b8f4e50800000000000000
+      internalID: 6795803832265106114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_25"
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110f6dd60245d34f0800000000000000
+      internalID: -847428656617295855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_26"
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9cc3ed60335c5c0800000000000000
+      internalID: -4195891373234402881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_27"
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fded0b93d2ead2c60800000000000000
+      internalID: 7795078039312850655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_28"
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2892709edaf0c6db0800000000000000
+      internalID: -4797442263443101310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_29"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 359
+        width: 2494
+        height: 1809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee94afdbf899bf970800000000000000
+      internalID: 8789787940390324718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_30"
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b3e0312275b1c90800000000000000
+      internalID: -7198063775561401561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_31"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c50a934bc2aef80800000000000000
+      internalID: -8076593829163017069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_32"
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf43596446971490800000000000000
+      internalID: -7775581011062861858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_33"
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7273f5fe904048bb0800000000000000
+      internalID: -4934814850974009561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_34"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93071881b2d28e00800000000000000
+      internalID: 1045629723437630362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_35"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 308
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631b2a0f93efcbb90800000000000000
+      internalID: -7224620177405333194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_36"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0843c0f7d7825ff10800000000000000
+      internalID: 2302791303937406080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_37"
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568384ebea4a71b30800000000000000
+      internalID: 4258053043125762149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_38"
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 308
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e301d003435ec9210800000000000000
+      internalID: 1341198801356787774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_39"
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c6c5376ab4b9bd0800000000000000
+      internalID: -2622419179741090771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_40"
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea3381681aca7040800000000000000
+      internalID: 4646248171650104035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_41"
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 308
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ae8f74bcbcaaa00800000000000000
+      internalID: 768650760366385710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_42"
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22179267957603840800000000000000
+      internalID: 5201771203545100578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_43"
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445bc605e61e9f9c0800000000000000
+      internalID: -3892832538973129404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_44"
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 308
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69260963882e8afc0800000000000000
+      internalID: -3483285237112216938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_45"
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf200c3653c628910800000000000000
+      internalID: 1838150574483178235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_46"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafcb63ab7e3649a0800000000000000
+      internalID: -6249238732186333269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_47"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfda909660d71f60800000000000000
+      internalID: 8005096001605656501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_48"
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94409be72e43b88f0800000000000000
+      internalID: -537277583147334583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_49"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110dcb04159b351c0800000000000000
+      internalID: -4516062242692870127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_50"
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cffea3a56ab15a70800000000000000
+      internalID: 8814030891441389508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_51"
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3265616b1e418670800000000000000
+      internalID: 8539192247976288829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_52"
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd1a0c55775dea40800000000000000
+      internalID: 5399067689854049790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_53"
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8aa64fd71baf30800000000000000
+      internalID: 4587786893137709630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_54"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb76f2e451867290800000000000000
+      internalID: -7892979095335175174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_55"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abfe84bf0d992b20800000000000000
+      internalID: 3110189708455377827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_56"
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc33b93a857653350800000000000000
+      internalID: 5995812109313323981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_57"
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc6c8e18f344220800000000000000
+      internalID: 2469168322894548842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_58"
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c0b37980cfff570800000000000000
+      internalID: 8502791735325953115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_59"
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d47d2f3384a8e160800000000000000
+      internalID: 7055069699883496662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_60"
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9770aaeb355151d60800000000000000
+      internalID: 7860212174070351737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_61"
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a685d309a591660800000000000000
+      internalID: 7357011041837410872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_62"
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2f1af737dddbfa0800000000000000
+      internalID: -5783222858341551363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_63"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38397fda122772920800000000000000
+      internalID: 2965464368624931715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_64"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80817e44696c68ce0800000000000000
+      internalID: -1403215885175941112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_65"
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fd96c7854559100800000000000000
+      internalID: 114090104588984202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_66"
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005b6f87700643290800000000000000
+      internalID: -7911593060172647168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_67"
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6202dd4fd365cd0800000000000000
+      internalID: -2569798415477102937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_68"
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fec5c36b86a8c290800000000000000
+      internalID: -7869857231225368845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_69"
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d59565abda6bd0800000000000000
+      internalID: -2636053128451598789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_70"
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e75a45d082a71e10800000000000000
+      internalID: 2168380419820115945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cal\xEAndula_71"
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7325a748df4309c00800000000000000
+      internalID: 905281788555448887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Cal\xEAndula_0": -7728172036400713650
+      "Cal\xEAndula_1": -4796350428372682762
+      "Cal\xEAndula_10": 7816957713719594007
+      "Cal\xEAndula_11": 3317212767596568645
+      "Cal\xEAndula_12": -3027126502403761586
+      "Cal\xEAndula_13": 5527046609127097141
+      "Cal\xEAndula_14": 488103123738255351
+      "Cal\xEAndula_15": 499077365727235920
+      "Cal\xEAndula_16": -3731451567180123495
+      "Cal\xEAndula_17": 946717920617864722
+      "Cal\xEAndula_18": 8703010027401306488
+      "Cal\xEAndula_19": -8649318857752489630
+      "Cal\xEAndula_2": -7995687262806636235
+      "Cal\xEAndula_20": 8685975381924211521
+      "Cal\xEAndula_21": 2869870974322831285
+      "Cal\xEAndula_22": -5580165001506262995
+      "Cal\xEAndula_23": -6270419270696205050
+      "Cal\xEAndula_24": 6795803832265106114
+      "Cal\xEAndula_25": -847428656617295855
+      "Cal\xEAndula_26": -4195891373234402881
+      "Cal\xEAndula_27": 7795078039312850655
+      "Cal\xEAndula_28": -4797442263443101310
+      "Cal\xEAndula_29": 8789787940390324718
+      "Cal\xEAndula_3": 6623258069290872350
+      "Cal\xEAndula_30": -7198063775561401561
+      "Cal\xEAndula_31": -8076593829163017069
+      "Cal\xEAndula_32": -7775581011062861858
+      "Cal\xEAndula_33": -4934814850974009561
+      "Cal\xEAndula_34": 1045629723437630362
+      "Cal\xEAndula_35": -7224620177405333194
+      "Cal\xEAndula_36": 2302791303937406080
+      "Cal\xEAndula_37": 4258053043125762149
+      "Cal\xEAndula_38": 1341198801356787774
+      "Cal\xEAndula_39": -2622419179741090771
+      "Cal\xEAndula_4": -8379175068594990913
+      "Cal\xEAndula_40": 4646248171650104035
+      "Cal\xEAndula_41": 768650760366385710
+      "Cal\xEAndula_42": 5201771203545100578
+      "Cal\xEAndula_43": -3892832538973129404
+      "Cal\xEAndula_44": -3483285237112216938
+      "Cal\xEAndula_45": 1838150574483178235
+      "Cal\xEAndula_46": -6249238732186333269
+      "Cal\xEAndula_47": 8005096001605656501
+      "Cal\xEAndula_48": -537277583147334583
+      "Cal\xEAndula_49": -4516062242692870127
+      "Cal\xEAndula_5": 8818770595982090428
+      "Cal\xEAndula_50": 8814030891441389508
+      "Cal\xEAndula_51": 8539192247976288829
+      "Cal\xEAndula_52": 5399067689854049790
+      "Cal\xEAndula_53": 4587786893137709630
+      "Cal\xEAndula_54": -7892979095335175174
+      "Cal\xEAndula_55": 3110189708455377827
+      "Cal\xEAndula_56": 5995812109313323981
+      "Cal\xEAndula_57": 2469168322894548842
+      "Cal\xEAndula_58": 8502791735325953115
+      "Cal\xEAndula_59": 7055069699883496662
+      "Cal\xEAndula_6": 4147428048234047742
+      "Cal\xEAndula_60": 7860212174070351737
+      "Cal\xEAndula_61": 7357011041837410872
+      "Cal\xEAndula_62": -5783222858341551363
+      "Cal\xEAndula_63": 2965464368624931715
+      "Cal\xEAndula_64": -1403215885175941112
+      "Cal\xEAndula_65": 114090104588984202
+      "Cal\xEAndula_66": -7911593060172647168
+      "Cal\xEAndula_67": -2569798415477102937
+      "Cal\xEAndula_68": -7869857231225368845
+      "Cal\xEAndula_69": -2636053128451598789
+      "Cal\xEAndula_7": 3757063698312127199
+      "Cal\xEAndula_70": 2168380419820115945
+      "Cal\xEAndula_71": 905281788555448887
+      "Cal\xEAndula_8": 1643668596090619609
+      "Cal\xEAndula_9": -8966985033505956544
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

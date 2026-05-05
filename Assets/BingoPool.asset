@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06b96e7897ee10d4cb0a334766b8caba, type: 3}
+  m_Name: BingoPool
+  m_EditorClassIdentifier: 
+  imagens:
+  - nome: Alecrim
+    sprite: {fileID: -6311334653569690889, guid: a4cf527d75408064f9efe0794ac74af7, type: 3}
+  - nome: Alfazema
+    sprite: {fileID: -6238073306013335558, guid: cef75bff7e3eaf94a8c1a9be1b6a2bf7, type: 3}
+  - nome: Amendoeira
+    sprite: {fileID: -8254527536636287070, guid: 30d4fb3bf419c3a488908c66ec42f640, type: 3}
+  - nome: Amor-perfeito
+    sprite: {fileID: -8321777976856322794, guid: 367064704bb77a248878d4a8d2229ad4, type: 3}
+  - nome: Amoreira
+    sprite: {fileID: 2501645768967312957, guid: bf82ea18bed9d0d4fba92382d4134b9e, type: 3}
+  - nome: "Az\xE1lea"
+    sprite: {fileID: -5848401467376656033, guid: 692533c628b0c2e40b73cd9e73878957, type: 3}
+  - nome: Bananeira
+    sprite: {fileID: 3613662762360218947, guid: cd3d2c46f7ee90d42add88f94b356c0e, type: 3}
+  - nome: "Beg\xF3nia"
+    sprite: {fileID: -7298708702029780315, guid: d9adc6e84d27adb4186058b87c511ff4, type: 3}
+  - nome: "Cal\xEAndula"
+    sprite: {fileID: -7728172036400713650, guid: 360880aad63a5cc49afeda9e7601876b, type: 3}
+  - nome: Camomila
+    sprite: {fileID: 1465758829294726170, guid: c4f1fff07159b8c49968d71fd56a6cfd, type: 3}
+  - nome: "Cam\xE9lia"
+    sprite: {fileID: 5424116968610420811, guid: 0ff226b04539dc0409fa9d65535c3194, type: 3}
+  - nome: Carvalho
+    sprite: {fileID: -2225686280436064616, guid: c7cf3514bd4d01f418a41e9a1d6d4f79, type: 3}
+  - nome: Castanheiro
+    sprite: {fileID: -3695158798440421450, guid: 7ac0c444ac8957b45939fed1b3ae92a0, type: 3}
+  - nome: Cabolinho
+    sprite: {fileID: 8498306066654943046, guid: 64b773113cca5a343bc6fde7a86ab0aa, type: 3}
+  - nome: Cipreste
+    sprite: {fileID: -6699660105349628455, guid: e0d83bbf0797f4049be8f6ebedaac3ac, type: 3}
+  - nome: Coentros
+    sprite: {fileID: -5707631697432004364, guid: 050af2d5085f07e4cbe779a870ff177e, type: 3}
+  - nome: Cravo
+    sprite: {fileID: 1887676476110518225, guid: e514f77a6bc944e4b90df7cce4eddd89, type: 3}
+  - nome: "D\xE1lia"
+    sprite: {fileID: 4840292825075732978, guid: f193e1e8ea5898d4a813bd3e45844810, type: 3}
+  - nome: Endro
+    sprite: {fileID: -5766160795113308917, guid: ede45c31a7f2f7d46ba0b33aee41d45a, type: 3}
+  - nome: Erva-cidreira
+    sprite: {fileID: -7166893045514550048, guid: 2fb8fc3de6eb8cb4ea3a011971c4cba7, type: 3}
+  - nome: Erva-doce
+    sprite: {fileID: 7628307521531929886, guid: 2b67b8c4b37d51d4280bb7bff3da5e30, type: 3}
+  - nome: "Estrag\xE3o"
+    sprite: {fileID: 4665979438909612676, guid: cb89f4edea0a4ad4087a78a74da73a44, type: 3}
+  - nome: Eucalipto
+    sprite: {fileID: -5367284801374912922, guid: 71bac088e10a8914e95257279ccb6845, type: 3}
+  - nome: Figueira
+    sprite: {fileID: -6188977423951638253, guid: 8f303628ad4f40149a022d1ae4e33d4b, type: 3}
+  - nome: Flor-de-laranja
+    sprite: {fileID: -186067956600715164, guid: 3ec47a492d6e31f44af8c586a8a4d87b, type: 3}
+  - nome: Freixo
+    sprite: {fileID: -4340408368303383421, guid: 1837d2db76cd75e4bbe3954d61c4bcbc, type: 3}
+  - nome: "Fr\xE9sia"
+    sprite: {fileID: 8496803758171440936, guid: fc026992a7c70384b9410488cfc60f3c, type: 3}
+  - nome: Funcho
+    sprite: {fileID: 427075634397608213, guid: 918710e8a6aa08f4da8dab3a15ec8c37, type: 3}
+  - nome: Louro
+    sprite: {fileID: -7987680208282615166, guid: 3706763f297442e458563bd65e8ff842, type: 3}
+  - nome: "L\xEDrio"
+    sprite: {fileID: -1785476855388285769, guid: 1e806fe0f48842c488c81e4329169a3e, type: 3}
+  - nome: Salgueiro
+    sprite: {fileID: 1272668556893600156, guid: 4dc856050062cd14ba46612977df14d5, type: 3}
+  - nome: Tulipa
+    sprite: {fileID: -7684331148194311718, guid: facd69c8cb004ab4bbaa99999cd757ed, type: 3}
